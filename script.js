@@ -6,17 +6,18 @@ const caixaResultado = document.querySelector(".caixa-resultado");
 
 const perguntas =[
     {
- enunciado: "Pergunta 1",
+ enunciado: "Quais são os sinais e sintomas mais comuns na depressão, e como podemos diferenciar a depressão de outras condições de saúde mental?",
 alternativas:[
- "Alternativa 1",
-"Alternativa 2"
-        ]
+ "Como podemos identificar sinais de depressão em comparação com outras condições de saúde mental, como ansiedade ou transtorno bipolar, em diferentes faixas etárias",
+}
+"Como a depressão afeta exclusivamente o sono e o apetite, sem influenciar outros aspectos da saúde mental",
+]
     },
     {
- enunciado: "Pergunta 2",
+ enunciado: "Você acha que o celular afasta as pessoas pessoalmente?",
 alternativas:[
-  "Alternativa 1",
-  "Alternativa 2"
+  "Sim",
+  "Não"
         ]
     }
 ];
