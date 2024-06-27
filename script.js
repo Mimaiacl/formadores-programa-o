@@ -17,7 +17,7 @@ alternativas:[
  enunciado: "Você acha que o celular afasta as pessoas pessoalmente?",
 alternativas:[
   "Sim",
-  "Não"
-        ]
-    }
+  "Não",
+        ],
+    },
 ];
