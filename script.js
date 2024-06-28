@@ -6,10 +6,10 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas =[
     {
- enunciado: "Quais são os sinais e sintomas mais comuns na depressão, e como podemos diferenciar a depressão de outras condições de saúde mental?",
+ enunciado: "Quais são os sinais de uma pessoa que está dependente de celular?",
 alternativas:[
- "Como podemos identificar sinais de depressão em comparação com outras condições de saúde mental, como ansiedade ou transtorno bipolar, em diferentes faixas etárias",
-"Como a depressão afeta exclusivamente o sono e o apetite, sem influenciar outros aspectos da saúde mental",
+ "Estresse,depressão e ansiedade.",
+"calma, felicidade, concentração.",
 ],
     },
     {
