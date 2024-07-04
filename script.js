@@ -25,5 +25,5 @@ let atual = 0;
 let perguntaAtual;
 
 function mostra perguntas(){
- caixaPerguntas.textContent = perguntas[atual]."Você acha que o celular afasta as pessoas pessoalmente?";}
+ caixaPerguntas.textContent = perguntas[atual];"Você acha que o celular afasta as pessoas pessoalmente?";}
  mostra perguntas();
