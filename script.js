@@ -20,3 +20,4 @@ alternativas:[
         ],
     },
 ];
+{caixa.perguntas.textContent = perguntas[0]."Você acha que o celular afasta as pessoas pessoalmente?";}
